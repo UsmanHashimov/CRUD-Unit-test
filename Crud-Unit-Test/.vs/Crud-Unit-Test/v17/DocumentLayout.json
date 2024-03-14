@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9187A9FE-7258-4943-959D-38605EC4601F}|CRUD.Tests.Unit\\CRUD.Tests.Unit.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud.tests.unit\\userservicetests.logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9187A9FE-7258-4943-959D-38605EC4601F}|CRUD.Tests.Unit\\CRUD.Tests.Unit.csproj|solutionrelative:crud.tests.unit\\userservicetests.logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9187A9FE-7258-4943-959D-38605EC4601F}|CRUD.Tests.Unit\\CRUD.Tests.Unit.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud.tests.unit\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9187A9FE-7258-4943-959D-38605EC4601F}|CRUD.Tests.Unit\\CRUD.Tests.Unit.csproj|solutionrelative:crud.tests.unit\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\repositories\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\repositories\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\repositories\\base\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\repositories\\base\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\crud-unit-test\\crud-unit-test\\repositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716FF7F2-0255-40B6-B1E6-117369798473}|Crud-Unit-Test\\Crud-Unit-Test.csproj|solutionrelative:crud-unit-test\\repositories\\base\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTests.Logic.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\CRUD.Tests.Unit\\UserServiceTests.Logic.cs",
+              "RelativeDocumentMoniker": "CRUD.Tests.Unit\\UserServiceTests.Logic.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\CRUD.Tests.Unit\\UserServiceTests.Logic.cs",
+              "RelativeToolTip": "CRUD.Tests.Unit\\UserServiceTests.Logic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:40:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\CRUD.Tests.Unit\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "CRUD.Tests.Unit\\UserServiceTests.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\CRUD.Tests.Unit\\UserServiceTests.cs",
+              "RelativeToolTip": "CRUD.Tests.Unit\\UserServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:39:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Program.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Program.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Program.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:33:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:31:20.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Services\\UserService.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Services\\UserService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:26:59.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Services\\IUserService.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:26:45.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Repositories\\Users\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Users\\UserRepository.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Repositories\\Users\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:23:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Repositories\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Repositories\\Users\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:22:03.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Models\\UserDTO.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:13:08.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Models\\User.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:13:00.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:12:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Base\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Repositories\\Base\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Base\\GenericRepository.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Repositories\\Base\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:06:45.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Base\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Crud-Unit-Test\\Repositories\\Base\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\Crud-Unit-Test\\Crud-Unit-Test\\Repositories\\Base\\IGenericRepository.cs",
+              "RelativeToolTip": "Crud-Unit-Test\\Repositories\\Base\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:06:13.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
