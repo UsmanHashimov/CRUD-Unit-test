@@ -1,0 +1,6 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\CRUD.Tests.Unit\bin\Debug\net8.0\CoverletSourceRootsMapping_CRUD.Tests.Unit
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\CRUD.Tests.Unit\obj\Debug\net8.0\CRUD.Tests.Unit.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\CRUD.Tests.Unit\obj\Debug\net8.0\CRUD.Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\CRUD.Tests.Unit\obj\Debug\net8.0\CRUD.Tests.Unit.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\CRUD.Tests.Unit\obj\Debug\net8.0\CRUD.Tests.Unit.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\CRUD.Tests.Unit\obj\Debug\net8.0\CRUD.Tests.Unit.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-Unit-Test\Crud-Unit-Test\obj\Debug\net8.0\Crud-Unit-Test.MvcApplicationPartsAssemblyInfo.cache
